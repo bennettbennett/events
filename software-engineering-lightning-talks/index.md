@@ -1,6 +1,8 @@
-# Software Engineering Lightning Talk Day
+# Software Engineering Lightning Talks
 
 Draft - Work In Progress - Request For Collaboration
+
+## Introduction
 
 NHS Wales has many software engineers, and many good ideas. We want to create a
 get-together where our teammates can do lightning talks to showcase ideas. 
@@ -9,7 +11,21 @@ This is a bit like a TED Talk event, with the talks being focused on software
 engineering, including practices, tooling, source code, learning and growth
 paths, and the like.
 
-For more please contact Joel Henderson (joel.henderson@wales.nhs.uk).
+For more please contact Joel Henderson (<joel.henderson@wales.nhs.uk>).
+
+## Invitation
+
+Who: DHCW software engineers and related employees.
+
+What: Twelve fast talks to inspire our technical teams.
+
+Where: Tŷ Glan-yr-Afon, 21 Cowbridge Road, East Cardiff, CF11 9AD, Cymru.
+
+When: July 2. 9:00 a.m. - 12:30 p.m. talks, then 12:30 pizza lunch.
+
+Why: Soft launch our new ways of working using our new conference area.
+
+Capacity: 50 people (TBD). RSVP please.
 
 ## Soft launch
 
@@ -68,9 +84,11 @@ like.
 
 ## Talks
 
-We want each talk to be 6 minutes, then a few minutes for questions, for a maximum 10 minutes total.
+We want each talk to be 6 minutes, then a few minutes for questions, for a maximum 9 minutes total. 
 
 We want each presenter to have a few teammates in the crowd who are prepared with a few suitable questions, just in case no one else asks anything. In other words, we specifically want to seed questions, because this encourages more people to talk more.
+
+The next presenter starts immediately at the 10 minute mark because we want to keep things fast and on track.
 
 ## Date & Time
 
@@ -146,7 +164,7 @@ We are also requesting the main open area for lunch seating from 12:00 (no setup
 
 ## Corp services
 
-We are in touch with corporate services. 
+We are in touch with corporate services.
 
 The title of the event is "Software Engineering Lightning Talks".
 
