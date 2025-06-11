@@ -55,16 +55,16 @@ and NHS-X, and sharable component systems such as DaisyUI and Tailwind.
 tests, benchmark tests, fuzz tests, mutation tests, test-driven development,
 system quality attributes, etc.
 
-* Example ideas for CI/CD/CT: how to do continous integration, continuous
-  delivery, continous telemetry.
+* Example ideas for CI/CD/CT: how to do continuous integration, continuous
+  delivery, continuous telemetry.
 
 **DX: Developer experience for software engineering:**
 
 * Example ideas for testing: how to do unit tests, functional tests, integration tests,
   benchmark tests, fuzz tests, mutation tests, test-driven development, etc.
 
-* Example ideas for CI/CD/CT: how to do continous integration, continuous
-  delivery, continous telemetry, DORA metrics.
+* Example ideas for CI/CD/CT: how to do continuous integration, continuous
+  delivery, continuous telemetry, DORA metrics.
 
 * Example ideas for tooling; git, containers, virtual environments, Windows
   Subsystem for Linux, devops, secops.
@@ -78,17 +78,23 @@ system quality attributes, etc.
 improve software design, development, testing, deployment, telemetry, and the
 like.
 
-* Example iddeas for upskilling: how to leverage AI for learning new skills,
+* Example idea for upskilling: how to leverage AI for learning new skills,
   such as new programming languages, new software programming paradigms, new
   tooling, etc.
 
 ## Talks
 
-We want each talk to be 6 minutes, then a few minutes for questions, for a maximum 9 minutes total. 
+We want each talk to be 6 minutes, then a few minutes for questions, for a maximum 9 minutes total.
 
 We want each presenter to have a few teammates in the crowd who are prepared with a few suitable questions, just in case no one else asks anything. In other words, we specifically want to seed questions, because this encourages more people to talk more.
 
 The next presenter starts immediately at the 10 minute mark because we want to keep things fast and on track.
+
+## Six Slide Ideas
+
+If you're a presenter and you're seeking slide ideas, here are [six slide
+ideas](six-slide-ideas/). You can even time your presentation to one minute per
+slide, which makes it easy to stay on track.
 
 ## Date & Time
 
