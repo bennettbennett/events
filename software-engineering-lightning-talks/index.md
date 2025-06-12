@@ -150,7 +150,7 @@ We want to aim for one theme = one
 
 * 11:40 AI talk 1
 
-* 11:50 AI talk 2: "Code at Light Speed: AI Tools Every Engineer Needs Now" by Gerald Ncube. Summary: A 6-minute dive into practical AI tools that are transforming software engineering - from GitHub Copilot to deployment automation. Attendees will see a short live demo, real ROI calculations, and get an actionable roadmap to implement AI in their development workflow.
+* 11:50 AI talk 2: "Code at Light Speed: AI Tools Every Engineer Needs Now". Summary: A 6-minute dive into practical AI tools that are transforming software engineering - from GitHub Copilot to deployment automation. Attendees will see a short live demo, real ROI calculations, and get an actionable roadmap to implement AI in their development workflow.
 
 * 12:00 AI talk 3
 
