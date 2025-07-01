@@ -132,7 +132,7 @@ We want to aim for one theme = one
 
 * 10:00 Stretch for 10 minutes
 
-* 10:10 QA talk 1
+* 10:10 QA talk 1: "How to Automate Accessibility Testing" - Ayman Hussein, Capacitas
 
 * 10:20 QA talk 2
 
@@ -140,7 +140,7 @@ We want to aim for one theme = one
 
 * 10:40 Break for coffee and conversation for 20 minutes
   
-* 11:00 DX talk 1
+* 11:00 DX talk 1: "People, Processes and Technology - the balance to improve DevOps Ways of Working" - Dan Bennett, Capacitas
 
 * 11:10 DX talk 2
 
